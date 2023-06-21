@@ -1,8 +1,8 @@
 {
-  "name": "calendar-front-end",
+  "name": "goosetrack-calendar",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kenobiwins.github.io/calendar-front-end/",
+  "homepage": "https://kenobiwins.github.io/goosetrack-calendar/",
   "dependencies": {
     "@blueprintjs/core": "^4.18.0",
     "@mui/x-date-pickers": "^6.2.1",
