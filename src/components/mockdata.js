@@ -1,0 +1,58 @@
+const tasks = [
+    {
+        id: '644629afdb51c35fa8f0c9іaf',
+        title: 'to complete team project',
+        start: '11:00',
+        end: '14:00',
+        date: '2023-05-03',
+        priority: 'high',
+        category: 'toDo',
+    },
+    {
+        id: '644629afdb51c35fa8f0c9af5',
+        title: 'to complete team project',
+        start: '11:00',
+        end: '14:00',
+        date: '2023-05-03',
+        priority: 'low',
+        category: 'toDo',
+    },
+    {
+        id: '644629afdb51c35fa8f0c9af4',
+        title: 'to complete team project',
+        start: '11:00',
+        end: '14:00',
+        date: '2023-05-03',
+        priority: 'medium',
+        category: 'toDo',
+    },
+    {
+        id: '644629afdb51c35fa8f0c9af3',
+        title: 'to complete team project',
+        start: '11:00',
+        end: '14:00',
+        date: '2023-05-03',
+        priority: 'high',
+        category: 'done',
+    },
+    {
+        id: '644629afdb51c35fa8f0c9af2',
+        title: 'to complete team project',
+        start: '11:00',
+        end: '14:00',
+        date: '2023-05-03',
+        priority: 'high',
+        category: 'inProgress',
+    },
+    {
+        id: '644629afdb51c35fa8f0c9af1',
+        title: 'to complete team project',
+        start: '11:00',
+        end: '14:00',
+        date: '2023-05-03',
+        priority: 'high',
+        category: 'inProgress',
+    },
+];
+
+export { tasks };
