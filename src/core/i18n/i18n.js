@@ -12,7 +12,7 @@ i18next
     .use(Backend)
     .init({
         backend: {
-            loadPath: `${FRONTEND_BASE_URL}/goosetrack-team-project-front/locales/{{lng}}/translation.json`,
+            loadPath: `${FRONTEND_BASE_URL}/goosetrack-calendar/locales/{{lng}}/translation.json`,
         },
 
         fallbackLng: 'en',
