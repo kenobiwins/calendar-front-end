@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/goosetrack-calendar/static/css/main.6a009728.css",
-    "main.js": "/goosetrack-calendar/static/js/main.0a4d9303.js",
+    "main.js": "/goosetrack-calendar/static/js/main.ee3ba534.js",
     "static/media/Inter-Bold.eot": "/goosetrack-calendar/static/media/Inter-Bold.7e9fff4114e0ea385c94.eot",
     "static/media/Inter-Bold.ttf": "/goosetrack-calendar/static/media/Inter-Bold.44e2216a9e0d20ee04b6.ttf",
     "static/media/Inter-SemiBold.eot": "/goosetrack-calendar/static/media/Inter-SemiBold.d7ced04b4dc4d21fd205.eot",
@@ -42,10 +42,10 @@
     "index.html": "/goosetrack-calendar/index.html",
     "static/media/getFetch.cjs": "/goosetrack-calendar/static/media/getFetch.40f37ddea2378391108f.cjs",
     "main.6a009728.css.map": "/goosetrack-calendar/static/css/main.6a009728.css.map",
-    "main.0a4d9303.js.map": "/goosetrack-calendar/static/js/main.0a4d9303.js.map"
+    "main.ee3ba534.js.map": "/goosetrack-calendar/static/js/main.ee3ba534.js.map"
   },
   "entrypoints": [
     "static/css/main.6a009728.css",
-    "static/js/main.0a4d9303.js"
+    "static/js/main.ee3ba534.js"
   ]
 }
